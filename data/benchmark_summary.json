@@ -1,0 +1,722 @@
+{
+  "run_status": {
+    "complete": true,
+    "mode": "main",
+    "started_utc": "2026-11-04T17:16:00.790758+00:00",
+    "ended_utc": "2026-11-04T17:38:10.319627+00:00"
+  },
+  "bootstrap_replicates": 10000,
+  "bootstrap_seed": 73401,
+  "estimand": "mean of within-round/profile complete-pair means; failures reported separately",
+  "profiles": {
+    "A": {
+      "groups": {
+        "X25519": {
+          "attempts": 600,
+          "successes": 600,
+          "timeouts": 0,
+          "failures": 0,
+          "metrics": {
+            "tls_ns": {
+              "mean_ms": 2.5394606866666667,
+              "median_ms": 0.788249,
+              "p95_ms": 14.8990279
+            },
+            "response_ns": {
+              "mean_ms": 3.261698221666667,
+              "median_ms": 0.8479829999999999,
+              "p95_ms": 20.49812045
+            },
+            "client_cpu_ns": {
+              "mean_ms": 0.18018298333333335,
+              "median_ms": 0.171837,
+              "p95_ms": 0.23299114999999984
+            }
+          },
+          "tls_sent_bytes": [
+            263
+          ],
+          "tls_received_bytes": [
+            1375
+          ]
+        },
+        "X25519MLKEM768": {
+          "attempts": 600,
+          "successes": 600,
+          "timeouts": 0,
+          "failures": 0,
+          "metrics": {
+            "tls_ns": {
+              "mean_ms": 5.072001274999999,
+              "median_ms": 1.01213,
+              "p95_ms": 33.6397077
+            },
+            "response_ns": {
+              "mean_ms": 6.39627942,
+              "median_ms": 1.0719675,
+              "p95_ms": 45.10771
+            },
+            "client_cpu_ns": {
+              "mean_ms": 0.26091625,
+              "median_ms": 0.24508249999999998,
+              "p95_ms": 0.3408300999999999
+            }
+          },
+          "tls_sent_bytes": [
+            1439
+          ],
+          "tls_received_bytes": [
+            2473
+          ]
+        }
+      },
+      "effects": {
+        "tls_ns": {
+          "complete_pairs": 600,
+          "blocks": 30,
+          "classical_block_mean_ms": 2.539460686666667,
+          "hybrid_block_mean_ms": 5.072001275000001,
+          "difference_ms": 2.5325405883333336,
+          "relative_percent": 99.7274973237559,
+          "ci95_ms": [
+            0.7874029487916673,
+            4.827810591250001
+          ],
+          "ci95_relative_percent": [
+            64.91911776709195,
+            112.35733568718624
+          ]
+        },
+        "response_ns": {
+          "complete_pairs": 600,
+          "blocks": 30,
+          "classical_block_mean_ms": 3.2616982216666672,
+          "hybrid_block_mean_ms": 6.396279420000001,
+          "difference_ms": 3.1345811983333336,
+          "relative_percent": 96.10273499587036,
+          "ci95_ms": [
+            0.7411904409583335,
+            6.240741665458329
+          ],
+          "ci95_relative_percent": [
+            55.1234720802766,
+            108.6374452372057
+          ]
+        },
+        "client_cpu_ns": {
+          "complete_pairs": 600,
+          "blocks": 30,
+          "classical_block_mean_ms": 0.18018298333333335,
+          "hybrid_block_mean_ms": 0.26091624999999996,
+          "difference_ms": 0.08073326666666661,
+          "relative_percent": 44.80626592651781,
+          "ci95_ms": [
+            0.07689605520833333,
+            0.08496271029166666
+          ],
+          "ci95_relative_percent": [
+            43.67682157395075,
+            46.04888813260608
+          ]
+        }
+      },
+      "byte_differences": [
+        [
+          1176,
+          1098
+        ]
+      ]
+    },
+    "B": {
+      "groups": {
+        "X25519": {
+          "attempts": 600,
+          "successes": 600,
+          "timeouts": 0,
+          "failures": 0,
+          "metrics": {
+            "tls_ns": {
+              "mean_ms": 21.19239221333333,
+              "median_ms": 21.138375500000002,
+              "p95_ms": 21.712280899999996
+            },
+            "response_ns": {
+              "mean_ms": 61.48752000166666,
+              "median_ms": 61.428397000000004,
+              "p95_ms": 62.16407915
+            },
+            "client_cpu_ns": {
+              "mean_ms": 0.357137325,
+              "median_ms": 0.33139850000000004,
+              "p95_ms": 0.5594249499999999
+            }
+          },
+          "tls_sent_bytes": [
+            263
+          ],
+          "tls_received_bytes": [
+            1375
+          ]
+        },
+        "X25519MLKEM768": {
+          "attempts": 600,
+          "successes": 600,
+          "timeouts": 0,
+          "failures": 0,
+          "metrics": {
+            "tls_ns": {
+              "mean_ms": 21.437090961666666,
+              "median_ms": 21.3805805,
+              "p95_ms": 21.932757249999998
+            },
+            "response_ns": {
+              "mean_ms": 61.71129928166666,
+              "median_ms": 61.644484,
+              "p95_ms": 62.37708225
+            },
+            "client_cpu_ns": {
+              "mean_ms": 0.44398030000000005,
+              "median_ms": 0.407666,
+              "p95_ms": 0.6617121499999999
+            }
+          },
+          "tls_sent_bytes": [
+            1439
+          ],
+          "tls_received_bytes": [
+            2473
+          ]
+        }
+      },
+      "effects": {
+        "tls_ns": {
+          "complete_pairs": 600,
+          "blocks": 30,
+          "classical_block_mean_ms": 21.192392213333335,
+          "hybrid_block_mean_ms": 21.437090961666666,
+          "difference_ms": 0.24469874833333094,
+          "relative_percent": 1.1546537355012574,
+          "ci95_ms": [
+            0.21462609391666537,
+            0.27501181474999253
+          ],
+          "ci95_relative_percent": [
+            1.011956549968419,
+            1.2983068519346406
+          ]
+        },
+        "response_ns": {
+          "complete_pairs": 600,
+          "blocks": 30,
+          "classical_block_mean_ms": 61.48752000166668,
+          "hybrid_block_mean_ms": 61.711299281666676,
+          "difference_ms": 0.22377927999999514,
+          "relative_percent": 0.36394260167580245,
+          "ci95_ms": [
+            0.19092789304167718,
+            0.25622566070833963
+          ],
+          "ci95_relative_percent": [
+            0.3105258591946836,
+            0.4169152214886108
+          ]
+        },
+        "client_cpu_ns": {
+          "complete_pairs": 600,
+          "blocks": 30,
+          "classical_block_mean_ms": 0.357137325,
+          "hybrid_block_mean_ms": 0.4439803000000001,
+          "difference_ms": 0.0868429750000001,
+          "relative_percent": 24.31640966118568,
+          "ci95_ms": [
+            0.07652241812500003,
+            0.09766362120833334
+          ],
+          "ci95_relative_percent": [
+            21.0904807801993,
+            27.85310552861851
+          ]
+        }
+      },
+      "byte_differences": [
+        [
+          1176,
+          1098
+        ]
+      ]
+    },
+    "C": {
+      "groups": {
+        "X25519": {
+          "attempts": 600,
+          "successes": 600,
+          "timeouts": 0,
+          "failures": 0,
+          "metrics": {
+            "tls_ns": {
+              "mean_ms": 51.365837331666675,
+              "median_ms": 51.298069,
+              "p95_ms": 51.85222975
+            },
+            "response_ns": {
+              "mean_ms": 151.78397158666667,
+              "median_ms": 151.7950935,
+              "p95_ms": 152.3332096
+            },
+            "client_cpu_ns": {
+              "mean_ms": 0.4568636916666666,
+              "median_ms": 0.4563655,
+              "p95_ms": 0.6119203499999999
+            }
+          },
+          "tls_sent_bytes": [
+            263
+          ],
+          "tls_received_bytes": [
+            1375
+          ]
+        },
+        "X25519MLKEM768": {
+          "attempts": 600,
+          "successes": 600,
+          "timeouts": 0,
+          "failures": 0,
+          "metrics": {
+            "tls_ns": {
+              "mean_ms": 51.632326391666666,
+              "median_ms": 51.559731,
+              "p95_ms": 52.152058100000005
+            },
+            "response_ns": {
+              "mean_ms": 152.04812683666668,
+              "median_ms": 152.04967699999997,
+              "p95_ms": 152.64177924999998
+            },
+            "client_cpu_ns": {
+              "mean_ms": 0.5601642416666668,
+              "median_ms": 0.5501435,
+              "p95_ms": 0.7635220499999997
+            }
+          },
+          "tls_sent_bytes": [
+            1439
+          ],
+          "tls_received_bytes": [
+            2473
+          ]
+        }
+      },
+      "effects": {
+        "tls_ns": {
+          "complete_pairs": 600,
+          "blocks": 30,
+          "classical_block_mean_ms": 51.365837331666654,
+          "hybrid_block_mean_ms": 51.63232639166666,
+          "difference_ms": 0.26648906000000494,
+          "relative_percent": 0.5188060272030578,
+          "ci95_ms": [
+            0.24044227412499222,
+            0.293351505833348
+          ],
+          "ci95_relative_percent": [
+            0.46781109657237,
+            0.5712719363954726
+          ]
+        },
+        "response_ns": {
+          "complete_pairs": 600,
+          "blocks": 30,
+          "classical_block_mean_ms": 151.78397158666667,
+          "hybrid_block_mean_ms": 152.04812683666665,
+          "difference_ms": 0.2641552499999875,
+          "relative_percent": 0.1740336922526489,
+          "ci95_ms": [
+            0.23397765516674554,
+            0.2956395499583038
+          ],
+          "ci95_relative_percent": [
+            0.15414254741186603,
+            0.19481783860808438
+          ]
+        },
+        "client_cpu_ns": {
+          "complete_pairs": 600,
+          "blocks": 30,
+          "classical_block_mean_ms": 0.4568636916666667,
+          "hybrid_block_mean_ms": 0.5601642416666667,
+          "difference_ms": 0.10330054999999999,
+          "relative_percent": 22.61080315293896,
+          "ci95_ms": [
+            0.09476681966666688,
+            0.1119090962916666
+          ],
+          "ci95_relative_percent": [
+            20.512066081195368,
+            24.80424680144957
+          ]
+        }
+      },
+      "byte_differences": [
+        [
+          1176,
+          1098
+        ]
+      ]
+    },
+    "D": {
+      "groups": {
+        "X25519": {
+          "attempts": 600,
+          "successes": 600,
+          "timeouts": 0,
+          "failures": 0,
+          "metrics": {
+            "tls_ns": {
+              "mean_ms": 101.461581975,
+              "median_ms": 101.3776775,
+              "p95_ms": 101.9754232
+            },
+            "response_ns": {
+              "mean_ms": 301.92100954999995,
+              "median_ms": 301.884831,
+              "p95_ms": 302.5184013
+            },
+            "client_cpu_ns": {
+              "mean_ms": 0.4962942233333333,
+              "median_ms": 0.48217299999999996,
+              "p95_ms": 0.64743485
+            }
+          },
+          "tls_sent_bytes": [
+            263
+          ],
+          "tls_received_bytes": [
+            1375
+          ]
+        },
+        "X25519MLKEM768": {
+          "attempts": 600,
+          "successes": 600,
+          "timeouts": 0,
+          "failures": 0,
+          "metrics": {
+            "tls_ns": {
+              "mean_ms": 101.70190143333333,
+              "median_ms": 101.6505095,
+              "p95_ms": 102.18774175
+            },
+            "response_ns": {
+              "mean_ms": 302.1624431416667,
+              "median_ms": 302.145192,
+              "p95_ms": 302.70647974999997
+            },
+            "client_cpu_ns": {
+              "mean_ms": 0.605615415,
+              "median_ms": 0.5914634999999999,
+              "p95_ms": 0.801397
+            }
+          },
+          "tls_sent_bytes": [
+            1439
+          ],
+          "tls_received_bytes": [
+            2473
+          ]
+        }
+      },
+      "effects": {
+        "tls_ns": {
+          "complete_pairs": 600,
+          "blocks": 30,
+          "classical_block_mean_ms": 101.46158197499996,
+          "hybrid_block_mean_ms": 101.70190143333336,
+          "difference_ms": 0.24031945833340274,
+          "relative_percent": 0.23685759048446262,
+          "ci95_ms": [
+            0.21183209983333812,
+            0.2691993514999986
+          ],
+          "ci95_relative_percent": [
+            0.20874972419587487,
+            0.2653675053348918
+          ]
+        },
+        "response_ns": {
+          "complete_pairs": 600,
+          "blocks": 30,
+          "classical_block_mean_ms": 301.9210095499999,
+          "hybrid_block_mean_ms": 302.16244314166664,
+          "difference_ms": 0.24143359166674827,
+          "relative_percent": 0.07996581358369016,
+          "ci95_ms": [
+            0.21127604275008735,
+            0.2704803734999558
+          ],
+          "ci95_relative_percent": [
+            0.0699848955116371,
+            0.08959051319076333
+          ]
+        },
+        "client_cpu_ns": {
+          "complete_pairs": 600,
+          "blocks": 30,
+          "classical_block_mean_ms": 0.49629422333333345,
+          "hybrid_block_mean_ms": 0.605615415,
+          "difference_ms": 0.1093211916666666,
+          "relative_percent": 22.027496296937873,
+          "ci95_ms": [
+            0.09847143549999991,
+            0.11975723216666656
+          ],
+          "ci95_relative_percent": [
+            19.833784107593516,
+            24.175068030478542
+          ]
+        }
+      },
+      "byte_differences": [
+        [
+          1176,
+          1098
+        ]
+      ]
+    },
+    "E": {
+      "groups": {
+        "X25519": {
+          "attempts": 600,
+          "successes": 600,
+          "timeouts": 0,
+          "failures": 0,
+          "metrics": {
+            "tls_ns": {
+              "mean_ms": 52.616513225,
+              "median_ms": 52.5703055,
+              "p95_ms": 53.093311400000005
+            },
+            "response_ns": {
+              "mean_ms": 153.30616559,
+              "median_ms": 153.3062825,
+              "p95_ms": 153.87261500000002
+            },
+            "client_cpu_ns": {
+              "mean_ms": 0.45458351333333336,
+              "median_ms": 0.456886,
+              "p95_ms": 0.6298119
+            }
+          },
+          "tls_sent_bytes": [
+            263
+          ],
+          "tls_received_bytes": [
+            1375
+          ]
+        },
+        "X25519MLKEM768": {
+          "attempts": 600,
+          "successes": 600,
+          "timeouts": 0,
+          "failures": 0,
+          "metrics": {
+            "tls_ns": {
+              "mean_ms": 54.47724996833333,
+              "median_ms": 54.426871,
+              "p95_ms": 54.93373715
+            },
+            "response_ns": {
+              "mean_ms": 155.16562968333335,
+              "median_ms": 155.174903,
+              "p95_ms": 155.6755403
+            },
+            "client_cpu_ns": {
+              "mean_ms": 0.573534895,
+              "median_ms": 0.572203,
+              "p95_ms": 0.763
+            }
+          },
+          "tls_sent_bytes": [
+            1439
+          ],
+          "tls_received_bytes": [
+            2473
+          ]
+        }
+      },
+      "effects": {
+        "tls_ns": {
+          "complete_pairs": 600,
+          "blocks": 30,
+          "classical_block_mean_ms": 52.61651322499999,
+          "hybrid_block_mean_ms": 54.47724996833333,
+          "difference_ms": 1.8607367433333408,
+          "relative_percent": 3.536412105789705,
+          "ci95_ms": [
+            1.8256932961249979,
+            1.893245230833338
+          ],
+          "ci95_relative_percent": [
+            3.467422669392701,
+            3.5999681074297136
+          ]
+        },
+        "response_ns": {
+          "complete_pairs": 600,
+          "blocks": 30,
+          "classical_block_mean_ms": 153.30616559,
+          "hybrid_block_mean_ms": 155.16562968333335,
+          "difference_ms": 1.8594640933333437,
+          "relative_percent": 1.2129088782419033,
+          "ci95_ms": [
+            1.8241541631250406,
+            1.8937212557500245
+          ],
+          "ci95_relative_percent": [
+            1.1893929328871162,
+            1.2356521752093326
+          ]
+        },
+        "client_cpu_ns": {
+          "complete_pairs": 600,
+          "blocks": 30,
+          "classical_block_mean_ms": 0.45458351333333336,
+          "hybrid_block_mean_ms": 0.573534895,
+          "difference_ms": 0.11895138166666663,
+          "relative_percent": 26.167113011738927,
+          "ci95_ms": [
+            0.10904037708333322,
+            0.12894137325000002
+          ],
+          "ci95_relative_percent": [
+            23.694405021192,
+            28.724140566750414
+          ]
+        }
+      },
+      "byte_differences": [
+        [
+          1176,
+          1098
+        ]
+      ]
+    },
+    "F": {
+      "groups": {
+        "X25519": {
+          "attempts": 600,
+          "successes": 600,
+          "timeouts": 0,
+          "failures": 0,
+          "metrics": {
+            "tls_ns": {
+              "mean_ms": 65.31808754333333,
+              "median_ms": 65.26152,
+              "p95_ms": 65.74546395
+            },
+            "response_ns": {
+              "mean_ms": 170.27239532500002,
+              "median_ms": 170.251812,
+              "p95_ms": 170.69947065000002
+            },
+            "client_cpu_ns": {
+              "mean_ms": 0.47853934666666664,
+              "median_ms": 0.4671605,
+              "p95_ms": 0.6342011
+            }
+          },
+          "tls_sent_bytes": [
+            263
+          ],
+          "tls_received_bytes": [
+            1375
+          ]
+        },
+        "X25519MLKEM768": {
+          "attempts": 600,
+          "successes": 600,
+          "timeouts": 0,
+          "failures": 0,
+          "metrics": {
+            "tls_ns": {
+              "mean_ms": 84.17231115166666,
+              "median_ms": 84.1333735,
+              "p95_ms": 84.7021465
+            },
+            "response_ns": {
+              "mean_ms": 189.18612979833333,
+              "median_ms": 189.14567549999998,
+              "p95_ms": 189.6810433
+            },
+            "client_cpu_ns": {
+              "mean_ms": 0.6780064133333332,
+              "median_ms": 0.6682775000000001,
+              "p95_ms": 0.8806833999999999
+            }
+          },
+          "tls_sent_bytes": [
+            1439
+          ],
+          "tls_received_bytes": [
+            2473
+          ]
+        }
+      },
+      "effects": {
+        "tls_ns": {
+          "complete_pairs": 600,
+          "blocks": 30,
+          "classical_block_mean_ms": 65.31808754333333,
+          "hybrid_block_mean_ms": 84.17231115166666,
+          "difference_ms": 18.854223608333328,
+          "relative_percent": 28.865241340425126,
+          "ci95_ms": [
+            18.822263370833337,
+            18.884608794666676
+          ],
+          "ci95_relative_percent": [
+            28.81117028625006,
+            28.91568770251215
+          ]
+        },
+        "response_ns": {
+          "complete_pairs": 600,
+          "blocks": 30,
+          "classical_block_mean_ms": 170.27239532500002,
+          "hybrid_block_mean_ms": 189.1861297983333,
+          "difference_ms": 18.913734473333278,
+          "relative_percent": 11.107927645718798,
+          "ci95_ms": [
+            18.87941841729162,
+            18.947286303458263
+          ],
+          "ci95_relative_percent": [
+            11.087275576786176,
+            11.127955015345668
+          ]
+        },
+        "client_cpu_ns": {
+          "complete_pairs": 600,
+          "blocks": 30,
+          "classical_block_mean_ms": 0.47853934666666664,
+          "hybrid_block_mean_ms": 0.6780064133333332,
+          "difference_ms": 0.19946706666666658,
+          "relative_percent": 41.682479832866946,
+          "ci95_ms": [
+            0.18670790712499977,
+            0.21173120716666652
+          ],
+          "ci95_relative_percent": [
+            39.07963375812342,
+            44.213286600665455
+          ]
+        }
+      },
+      "byte_differences": [
+        [
+          1176,
+          1098
+        ]
+      ]
+    }
+  },
+  "warnings": []
+}

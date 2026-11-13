@@ -1,0 +1,1046 @@
+{
+  "schema_version": 2,
+  "collector_version": "2.1.0",
+  "run_id": "b6dd2b3712b249a082e7041cd0080fa5",
+  "created_utc": "2026-11-05T12:42:24.854+00:00",
+  "fingerprint": "9a67b833fe991b684c68cc5b75abf11ce0998565ba18c679cd1a375f71140b1b",
+  "source_sha256": {
+    "collect_pqc_tls.py": "f87c8607472a58e3ca2b19985f6d54932615dfdc3519031d4ed51ac50387e68f",
+    "pqc_probe.py": "a916a5343d88cd4bb74e5796b50c726f6bd0185b7fbdab2dd9b3034d76db2348",
+    "sslyze_inventory.py": "74b1f5a04680de817f8f3b5b263ac3fcd885f8eb5c2abd03721dc95c1c4ff2b5"
+  },
+  "input_sha256": "fb137da286b8f67ef35a799d94c50ff322b6e62f370296ac40e92bbb3345b86e",
+  "targets": [
+    {
+      "hostname": "island.is",
+      "port": 443,
+      "category": "government",
+      "organisation": "",
+      "input_line": 2,
+      "input_value": "island.is",
+      "sample_index": 1
+    },
+    {
+      "hostname": "stjornarradid.is",
+      "port": 443,
+      "category": "government",
+      "organisation": "",
+      "input_line": 3,
+      "input_value": "stjornarradid.is",
+      "sample_index": 2
+    },
+    {
+      "hostname": "althingi.is",
+      "port": 443,
+      "category": "government",
+      "organisation": "",
+      "input_line": 4,
+      "input_value": "althingi.is",
+      "sample_index": 3
+    },
+    {
+      "hostname": "skatturinn.is",
+      "port": 443,
+      "category": "government",
+      "organisation": "",
+      "input_line": 5,
+      "input_value": "skatturinn.is",
+      "sample_index": 4
+    },
+    {
+      "hostname": "skra.is",
+      "port": 443,
+      "category": "government",
+      "organisation": "",
+      "input_line": 6,
+      "input_value": "skra.is",
+      "sample_index": 5
+    },
+    {
+      "hostname": "hagstofa.is",
+      "port": 443,
+      "category": "government",
+      "organisation": "",
+      "input_line": 7,
+      "input_value": "hagstofa.is",
+      "sample_index": 6
+    },
+    {
+      "hostname": "vinnumalastofnun.is",
+      "port": 443,
+      "category": "government",
+      "organisation": "",
+      "input_line": 8,
+      "input_value": "vinnumalastofnun.is",
+      "sample_index": 7
+    },
+    {
+      "hostname": "fjarskiptastofa.is",
+      "port": 443,
+      "category": "government",
+      "organisation": "",
+      "input_line": 9,
+      "input_value": "fjarskiptastofa.is",
+      "sample_index": 8
+    },
+    {
+      "hostname": "vedur.is",
+      "port": 443,
+      "category": "government",
+      "organisation": "",
+      "input_line": 10,
+      "input_value": "vedur.is",
+      "sample_index": 9
+    },
+    {
+      "hostname": "vegagerdin.is",
+      "port": 443,
+      "category": "government",
+      "organisation": "",
+      "input_line": 11,
+      "input_value": "vegagerdin.is",
+      "sample_index": 10
+    },
+    {
+      "hostname": "reykjavik.is",
+      "port": 443,
+      "category": "municipalities",
+      "organisation": "",
+      "input_line": 13,
+      "input_value": "reykjavik.is",
+      "sample_index": 11
+    },
+    {
+      "hostname": "kopavogur.is",
+      "port": 443,
+      "category": "municipalities",
+      "organisation": "",
+      "input_line": 14,
+      "input_value": "kopavogur.is",
+      "sample_index": 12
+    },
+    {
+      "hostname": "hafnarfjordur.is",
+      "port": 443,
+      "category": "municipalities",
+      "organisation": "",
+      "input_line": 15,
+      "input_value": "hafnarfjordur.is",
+      "sample_index": 13
+    },
+    {
+      "hostname": "akureyri.is",
+      "port": 443,
+      "category": "municipalities",
+      "organisation": "",
+      "input_line": 16,
+      "input_value": "akureyri.is",
+      "sample_index": 14
+    },
+    {
+      "hostname": "gardabaer.is",
+      "port": 443,
+      "category": "municipalities",
+      "organisation": "",
+      "input_line": 17,
+      "input_value": "gardabaer.is",
+      "sample_index": 15
+    },
+    {
+      "hostname": "mos.is",
+      "port": 443,
+      "category": "municipalities",
+      "organisation": "",
+      "input_line": 18,
+      "input_value": "mos.is",
+      "sample_index": 16
+    },
+    {
+      "hostname": "reykjanesbaer.is",
+      "port": 443,
+      "category": "municipalities",
+      "organisation": "",
+      "input_line": 19,
+      "input_value": "reykjanesbaer.is",
+      "sample_index": 17
+    },
+    {
+      "hostname": "arborg.is",
+      "port": 443,
+      "category": "municipalities",
+      "organisation": "",
+      "input_line": 20,
+      "input_value": "arborg.is",
+      "sample_index": 18
+    },
+    {
+      "hostname": "isafjordur.is",
+      "port": 443,
+      "category": "municipalities",
+      "organisation": "",
+      "input_line": 21,
+      "input_value": "isafjordur.is",
+      "sample_index": 19
+    },
+    {
+      "hostname": "vestmannaeyjar.is",
+      "port": 443,
+      "category": "municipalities",
+      "organisation": "",
+      "input_line": 22,
+      "input_value": "vestmannaeyjar.is",
+      "sample_index": 20
+    },
+    {
+      "hostname": "heilsuvera.is",
+      "port": 443,
+      "category": "healthcare",
+      "organisation": "",
+      "input_line": 24,
+      "input_value": "heilsuvera.is",
+      "sample_index": 21
+    },
+    {
+      "hostname": "landspitali.is",
+      "port": 443,
+      "category": "healthcare",
+      "organisation": "",
+      "input_line": 25,
+      "input_value": "landspitali.is",
+      "sample_index": 22
+    },
+    {
+      "hostname": "heilsugaeslan.is",
+      "port": 443,
+      "category": "healthcare",
+      "organisation": "",
+      "input_line": 26,
+      "input_value": "heilsugaeslan.is",
+      "sample_index": 23
+    },
+    {
+      "hostname": "hsn.is",
+      "port": 443,
+      "category": "healthcare",
+      "organisation": "",
+      "input_line": 27,
+      "input_value": "hsn.is",
+      "sample_index": 24
+    },
+    {
+      "hostname": "hsu.is",
+      "port": 443,
+      "category": "healthcare",
+      "organisation": "",
+      "input_line": 28,
+      "input_value": "hsu.is",
+      "sample_index": 25
+    },
+    {
+      "hostname": "hve.is",
+      "port": 443,
+      "category": "healthcare",
+      "organisation": "",
+      "input_line": 29,
+      "input_value": "hve.is",
+      "sample_index": 26
+    },
+    {
+      "hostname": "hsa.is",
+      "port": 443,
+      "category": "healthcare",
+      "organisation": "",
+      "input_line": 30,
+      "input_value": "hsa.is",
+      "sample_index": 27
+    },
+    {
+      "hostname": "hss.is",
+      "port": 443,
+      "category": "healthcare",
+      "organisation": "",
+      "input_line": 31,
+      "input_value": "hss.is",
+      "sample_index": 28
+    },
+    {
+      "hostname": "lyfja.is",
+      "port": 443,
+      "category": "healthcare",
+      "organisation": "",
+      "input_line": 32,
+      "input_value": "lyfja.is",
+      "sample_index": 29
+    },
+    {
+      "hostname": "krabb.is",
+      "port": 443,
+      "category": "healthcare",
+      "organisation": "",
+      "input_line": 33,
+      "input_value": "krabb.is",
+      "sample_index": 30
+    },
+    {
+      "hostname": "arionbanki.is",
+      "port": 443,
+      "category": "financial",
+      "organisation": "",
+      "input_line": 35,
+      "input_value": "arionbanki.is",
+      "sample_index": 31
+    },
+    {
+      "hostname": "islandsbanki.is",
+      "port": 443,
+      "category": "financial",
+      "organisation": "",
+      "input_line": 36,
+      "input_value": "islandsbanki.is",
+      "sample_index": 32
+    },
+    {
+      "hostname": "landsbankinn.is",
+      "port": 443,
+      "category": "financial",
+      "organisation": "",
+      "input_line": 37,
+      "input_value": "landsbankinn.is",
+      "sample_index": 33
+    },
+    {
+      "hostname": "kvika.is",
+      "port": 443,
+      "category": "financial",
+      "organisation": "",
+      "input_line": 38,
+      "input_value": "kvika.is",
+      "sample_index": 34
+    },
+    {
+      "hostname": "indo.is",
+      "port": 443,
+      "category": "financial",
+      "organisation": "",
+      "input_line": 39,
+      "input_value": "indo.is",
+      "sample_index": 35
+    },
+    {
+      "hostname": "cb.is",
+      "port": 443,
+      "category": "financial",
+      "organisation": "",
+      "input_line": 40,
+      "input_value": "cb.is",
+      "sample_index": 36
+    },
+    {
+      "hostname": "sjova.is",
+      "port": 443,
+      "category": "financial",
+      "organisation": "",
+      "input_line": 41,
+      "input_value": "sjova.is",
+      "sample_index": 37
+    },
+    {
+      "hostname": "vis.is",
+      "port": 443,
+      "category": "financial",
+      "organisation": "",
+      "input_line": 42,
+      "input_value": "vis.is",
+      "sample_index": 38
+    },
+    {
+      "hostname": "vordur.is",
+      "port": 443,
+      "category": "financial",
+      "organisation": "",
+      "input_line": 43,
+      "input_value": "vordur.is",
+      "sample_index": 39
+    },
+    {
+      "hostname": "lsr.is",
+      "port": 443,
+      "category": "financial",
+      "organisation": "",
+      "input_line": 44,
+      "input_value": "lsr.is",
+      "sample_index": 40
+    },
+    {
+      "hostname": "hi.is",
+      "port": 443,
+      "category": "education",
+      "organisation": "",
+      "input_line": 46,
+      "input_value": "hi.is",
+      "sample_index": 41
+    },
+    {
+      "hostname": "ru.is",
+      "port": 443,
+      "category": "education",
+      "organisation": "",
+      "input_line": 47,
+      "input_value": "ru.is",
+      "sample_index": 42
+    },
+    {
+      "hostname": "unak.is",
+      "port": 443,
+      "category": "education",
+      "organisation": "",
+      "input_line": 48,
+      "input_value": "unak.is",
+      "sample_index": 43
+    },
+    {
+      "hostname": "bifrost.is",
+      "port": 443,
+      "category": "education",
+      "organisation": "",
+      "input_line": 49,
+      "input_value": "bifrost.is",
+      "sample_index": 44
+    },
+    {
+      "hostname": "lhi.is",
+      "port": 443,
+      "category": "education",
+      "organisation": "",
+      "input_line": 50,
+      "input_value": "lhi.is",
+      "sample_index": 45
+    },
+    {
+      "hostname": "lbhi.is",
+      "port": 443,
+      "category": "education",
+      "organisation": "",
+      "input_line": 51,
+      "input_value": "lbhi.is",
+      "sample_index": 46
+    },
+    {
+      "hostname": "holar.is",
+      "port": 443,
+      "category": "education",
+      "organisation": "",
+      "input_line": 52,
+      "input_value": "holar.is",
+      "sample_index": 47
+    },
+    {
+      "hostname": "tskoli.is",
+      "port": 443,
+      "category": "education",
+      "organisation": "",
+      "input_line": 53,
+      "input_value": "tskoli.is",
+      "sample_index": 48
+    },
+    {
+      "hostname": "mh.is",
+      "port": 443,
+      "category": "education",
+      "organisation": "",
+      "input_line": 54,
+      "input_value": "mh.is",
+      "sample_index": 49
+    },
+    {
+      "hostname": "verslo.is",
+      "port": 443,
+      "category": "education",
+      "organisation": "",
+      "input_line": 55,
+      "input_value": "verslo.is",
+      "sample_index": 50
+    },
+    {
+      "hostname": "ruv.is",
+      "port": 443,
+      "category": "media",
+      "organisation": "",
+      "input_line": 57,
+      "input_value": "ruv.is",
+      "sample_index": 51
+    },
+    {
+      "hostname": "visir.is",
+      "port": 443,
+      "category": "media",
+      "organisation": "",
+      "input_line": 58,
+      "input_value": "visir.is",
+      "sample_index": 52
+    },
+    {
+      "hostname": "mbl.is",
+      "port": 443,
+      "category": "media",
+      "organisation": "",
+      "input_line": 59,
+      "input_value": "mbl.is",
+      "sample_index": 53
+    },
+    {
+      "hostname": "dv.is",
+      "port": 443,
+      "category": "media",
+      "organisation": "",
+      "input_line": 60,
+      "input_value": "dv.is",
+      "sample_index": 54
+    },
+    {
+      "hostname": "heimildin.is",
+      "port": 443,
+      "category": "media",
+      "organisation": "",
+      "input_line": 61,
+      "input_value": "heimildin.is",
+      "sample_index": 55
+    },
+    {
+      "hostname": "vb.is",
+      "port": 443,
+      "category": "media",
+      "organisation": "",
+      "input_line": 62,
+      "input_value": "vb.is",
+      "sample_index": 56
+    },
+    {
+      "hostname": "fotbolti.net",
+      "port": 443,
+      "category": "media",
+      "organisation": "",
+      "input_line": 63,
+      "input_value": "fotbolti.net",
+      "sample_index": 57
+    },
+    {
+      "hostname": "icelandreview.com",
+      "port": 443,
+      "category": "media",
+      "organisation": "",
+      "input_line": 64,
+      "input_value": "icelandreview.com",
+      "sample_index": 58
+    },
+    {
+      "hostname": "grapevine.is",
+      "port": 443,
+      "category": "media",
+      "organisation": "",
+      "input_line": 65,
+      "input_value": "grapevine.is",
+      "sample_index": 59
+    },
+    {
+      "hostname": "visindavefur.is",
+      "port": 443,
+      "category": "media",
+      "organisation": "",
+      "input_line": 66,
+      "input_value": "visindavefur.is",
+      "sample_index": 60
+    },
+    {
+      "hostname": "elko.is",
+      "port": 443,
+      "category": "retail",
+      "organisation": "",
+      "input_line": 68,
+      "input_value": "elko.is",
+      "sample_index": 61
+    },
+    {
+      "hostname": "byko.is",
+      "port": 443,
+      "category": "retail",
+      "organisation": "",
+      "input_line": 69,
+      "input_value": "byko.is",
+      "sample_index": 62
+    },
+    {
+      "hostname": "husa.is",
+      "port": 443,
+      "category": "retail",
+      "organisation": "",
+      "input_line": 70,
+      "input_value": "husa.is",
+      "sample_index": 63
+    },
+    {
+      "hostname": "ikea.is",
+      "port": 443,
+      "category": "retail",
+      "organisation": "",
+      "input_line": 71,
+      "input_value": "ikea.is",
+      "sample_index": 64
+    },
+    {
+      "hostname": "kronan.is",
+      "port": 443,
+      "category": "retail",
+      "organisation": "",
+      "input_line": 72,
+      "input_value": "kronan.is",
+      "sample_index": 65
+    },
+    {
+      "hostname": "bonus.is",
+      "port": 443,
+      "category": "retail",
+      "organisation": "",
+      "input_line": 73,
+      "input_value": "bonus.is",
+      "sample_index": 66
+    },
+    {
+      "hostname": "netto.is",
+      "port": 443,
+      "category": "retail",
+      "organisation": "",
+      "input_line": 74,
+      "input_value": "netto.is",
+      "sample_index": 67
+    },
+    {
+      "hostname": "hagkaup.is",
+      "port": 443,
+      "category": "retail",
+      "organisation": "",
+      "input_line": 75,
+      "input_value": "hagkaup.is",
+      "sample_index": 68
+    },
+    {
+      "hostname": "bland.is",
+      "port": 443,
+      "category": "retail",
+      "organisation": "",
+      "input_line": 76,
+      "input_value": "bland.is",
+      "sample_index": 69
+    },
+    {
+      "hostname": "heimkaup.is",
+      "port": 443,
+      "category": "retail",
+      "organisation": "",
+      "input_line": 77,
+      "input_value": "heimkaup.is",
+      "sample_index": 70
+    },
+    {
+      "hostname": "siminn.is",
+      "port": 443,
+      "category": "technology",
+      "organisation": "",
+      "input_line": 79,
+      "input_value": "siminn.is",
+      "sample_index": 71
+    },
+    {
+      "hostname": "vodafone.is",
+      "port": 443,
+      "category": "technology",
+      "organisation": "",
+      "input_line": 80,
+      "input_value": "vodafone.is",
+      "sample_index": 72
+    },
+    {
+      "hostname": "nova.is",
+      "port": 443,
+      "category": "technology",
+      "organisation": "",
+      "input_line": 81,
+      "input_value": "nova.is",
+      "sample_index": 73
+    },
+    {
+      "hostname": "hringdu.is",
+      "port": 443,
+      "category": "technology",
+      "organisation": "",
+      "input_line": 82,
+      "input_value": "hringdu.is",
+      "sample_index": 74
+    },
+    {
+      "hostname": "audkenni.is",
+      "port": 443,
+      "category": "technology",
+      "organisation": "",
+      "input_line": 83,
+      "input_value": "audkenni.is",
+      "sample_index": 75
+    },
+    {
+      "hostname": "isnic.is",
+      "port": 443,
+      "category": "technology",
+      "organisation": "",
+      "input_line": 84,
+      "input_value": "isnic.is",
+      "sample_index": 76
+    },
+    {
+      "hostname": "advania.is",
+      "port": 443,
+      "category": "technology",
+      "organisation": "",
+      "input_line": 85,
+      "input_value": "advania.is",
+      "sample_index": 77
+    },
+    {
+      "hostname": "syndis.is",
+      "port": 443,
+      "category": "technology",
+      "organisation": "",
+      "input_line": 86,
+      "input_value": "syndis.is",
+      "sample_index": 78
+    },
+    {
+      "hostname": "tolvutek.is",
+      "port": 443,
+      "category": "technology",
+      "organisation": "",
+      "input_line": 87,
+      "input_value": "tolvutek.is",
+      "sample_index": 79
+    },
+    {
+      "hostname": "tl.is",
+      "port": 443,
+      "category": "technology",
+      "organisation": "",
+      "input_line": 88,
+      "input_value": "tl.is",
+      "sample_index": 80
+    },
+    {
+      "hostname": "landsnet.is",
+      "port": 443,
+      "category": "infrastructure",
+      "organisation": "",
+      "input_line": 90,
+      "input_value": "landsnet.is",
+      "sample_index": 81
+    },
+    {
+      "hostname": "landsvirkjun.com",
+      "port": 443,
+      "category": "infrastructure",
+      "organisation": "",
+      "input_line": 91,
+      "input_value": "landsvirkjun.com",
+      "sample_index": 82
+    },
+    {
+      "hostname": "rarik.is",
+      "port": 443,
+      "category": "infrastructure",
+      "organisation": "",
+      "input_line": 92,
+      "input_value": "rarik.is",
+      "sample_index": 83
+    },
+    {
+      "hostname": "veitur.is",
+      "port": 443,
+      "category": "infrastructure",
+      "organisation": "",
+      "input_line": 93,
+      "input_value": "veitur.is",
+      "sample_index": 84
+    },
+    {
+      "hostname": "on.is",
+      "port": 443,
+      "category": "infrastructure",
+      "organisation": "",
+      "input_line": 94,
+      "input_value": "on.is",
+      "sample_index": 85
+    },
+    {
+      "hostname": "hsorka.is",
+      "port": 443,
+      "category": "infrastructure",
+      "organisation": "",
+      "input_line": 95,
+      "input_value": "hsorka.is",
+      "sample_index": 86
+    },
+    {
+      "hostname": "hsveitur.is",
+      "port": 443,
+      "category": "infrastructure",
+      "organisation": "",
+      "input_line": 96,
+      "input_value": "hsveitur.is",
+      "sample_index": 87
+    },
+    {
+      "hostname": "no.is",
+      "port": 443,
+      "category": "infrastructure",
+      "organisation": "",
+      "input_line": 97,
+      "input_value": "no.is",
+      "sample_index": 88
+    },
+    {
+      "hostname": "ov.is",
+      "port": 443,
+      "category": "infrastructure",
+      "organisation": "",
+      "input_line": 98,
+      "input_value": "ov.is",
+      "sample_index": 89
+    },
+    {
+      "hostname": "or.is",
+      "port": 443,
+      "category": "infrastructure",
+      "organisation": "",
+      "input_line": 99,
+      "input_value": "or.is",
+      "sample_index": 90
+    },
+    {
+      "hostname": "icelandair.com",
+      "port": 443,
+      "category": "travel",
+      "organisation": "",
+      "input_line": 101,
+      "input_value": "icelandair.com",
+      "sample_index": 91
+    },
+    {
+      "hostname": "isavia.is",
+      "port": 443,
+      "category": "travel",
+      "organisation": "",
+      "input_line": 102,
+      "input_value": "isavia.is",
+      "sample_index": 92
+    },
+    {
+      "hostname": "kefairport.is",
+      "port": 443,
+      "category": "travel",
+      "organisation": "",
+      "input_line": 103,
+      "input_value": "kefairport.is",
+      "sample_index": 93
+    },
+    {
+      "hostname": "straeto.is",
+      "port": 443,
+      "category": "travel",
+      "organisation": "",
+      "input_line": 104,
+      "input_value": "straeto.is",
+      "sample_index": 94
+    },
+    {
+      "hostname": "guidetoiceland.is",
+      "port": 443,
+      "category": "travel",
+      "organisation": "",
+      "input_line": 105,
+      "input_value": "guidetoiceland.is",
+      "sample_index": 95
+    },
+    {
+      "hostname": "visiticeland.com",
+      "port": 443,
+      "category": "travel",
+      "organisation": "",
+      "input_line": 106,
+      "input_value": "visiticeland.com",
+      "sample_index": 96
+    },
+    {
+      "hostname": "bluelagoon.com",
+      "port": 443,
+      "category": "travel",
+      "organisation": "",
+      "input_line": 107,
+      "input_value": "bluelagoon.com",
+      "sample_index": 97
+    },
+    {
+      "hostname": "re.is",
+      "port": 443,
+      "category": "travel",
+      "organisation": "",
+      "input_line": 108,
+      "input_value": "re.is",
+      "sample_index": 98
+    },
+    {
+      "hostname": "safetravel.is",
+      "port": 443,
+      "category": "travel",
+      "organisation": "",
+      "input_line": 109,
+      "input_value": "safetravel.is",
+      "sample_index": 99
+    },
+    {
+      "hostname": "icelandtravel.is",
+      "port": 443,
+      "category": "travel",
+      "organisation": "",
+      "input_line": 110,
+      "input_value": "icelandtravel.is",
+      "sample_index": 100
+    }
+  ],
+  "openssl": {
+    "binary": "/usr/bin/openssl",
+    "binary_sha256": "1d72cbc5bf62be3f3dbd7626c295b63c5fdc1dd8439f323ac47998d8a062b4c9",
+    "version": "OpenSSL 3.5.5 27 Jan 2026 (Library: OpenSSL 3.5.5 27 Jan 2026)\nbuilt on: Wed Sep 30 18:46:30 2026 UTC\nplatform: debian-amd64\noptions:  bn(64,64)\ncompiler: gcc -fPIC -pthread -m64 -Wa,--noexecstack -Wall -fzero-call-used-regs=used-gpr -Wa,--noexecstack -g -O2 -Werror=implicit-function-declaration -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/openssl-ivqAiB/openssl-3.5.5=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -fcf-protection -fdebug-prefix-map=/build/openssl-ivqAiB/openssl-3.5.5=/usr/src/openssl-3.5.5-1ubuntu3.7 -DOPENSSL_USE_NODELETE -DL_ENDIAN -DOPENSSL_PIC -DOPENSSL_BUILDING_OPENSSL -DZLIB -DZSTD -DNDEBUG -Wdate-time -D_FORTIFY_SOURCE=3\nOPENSSLDIR: \"/usr/lib/ssl\"\nENGINESDIR: \"/usr/lib/x86_64-linux-gnu/engines-3\"\nMODULESDIR: \"/usr/lib/x86_64-linux-gnu/ossl-modules\"\nSeeding source: os-specific JITTER (3060300)\nCPUINFO: OPENSSL_ia32cap=0x7ffaf3ffffebffff:0x994027bc239c27eb:0x40400910fc1cc410:0x0000000100040000:0x0000000000000000\n",
+    "tls13_groups": "secp256r1:secp384r1:secp521r1:x25519:x448:brainpoolP256r1tls13:brainpoolP384r1tls13:brainpoolP512r1tls13:ffdhe2048:ffdhe3072:ffdhe4096:ffdhe6144:ffdhe8192:MLKEM512:MLKEM768:MLKEM1024:SecP256r1MLKEM768:X25519MLKEM768:SecP384r1MLKEM1024\n",
+    "providers": "Providers:\n  default\n    name: OpenSSL Default Provider\n    version: 3.5.5\n    status: active\n",
+    "environment": {
+      "OPENSSL_CONF": null,
+      "OPENSSL_CONF_INCLUDE": null,
+      "OPENSSL_MODULES": null,
+      "OPENSSL_ENGINES": null,
+      "SSL_CERT_FILE": null,
+      "SSL_CERT_DIR": null
+    }
+  },
+  "sslyze": {
+    "packages": {
+      "sslyze": "6.3.1",
+      "nassl": "5.4.0",
+      "cryptography": "46.0.7",
+      "pydantic": "2.14.1",
+      "pydantic-core": "2.50.1",
+      "tls-parser": "2.0.2",
+      "cffi": "2.1.1",
+      "pycparser": "3.12",
+      "typing-extensions": "4.16.0",
+      "typing-inspection": "0.4.4",
+      "annotated-types": "0.8.0"
+    },
+    "trust_store_files_sha256": {
+      "apple.pem": "3c9676ecc4cf41d2676c03ab551b48d18bb958075e7fb259af54466ba22c5413",
+      "apple.yaml": "c1862b67e19f2138752d30f5cb71b6e17a6cf67aa7b1e7be2f219fe9fa7fade5",
+      "google_aosp.pem": "5516f3a652720a5ce2ccdcb98fc1a71f47ca85c7ae1c6da6eb7a4d0485e47a40",
+      "google_aosp.yaml": "21c4e2ac19c367e921d1263fde101bbd7e2986cb63e3f5789f7189f7e0e079da",
+      "microsoft_windows.pem": "e724ead493cea3ad98623c89a2566f4e4e6290cb66ed6ae8450d0ac40a317b1b",
+      "microsoft_windows.yaml": "6da4b2b3d351c5e90b474185c65dd620972920cb0cb967e59531e6bf5c3c1891",
+      "mozilla_nss.pem": "72646f6c96b3e8b6139286a62eea52140dccd0e436f31450ae4f63b834af8479",
+      "mozilla_nss.yaml": "33176896149350e2537003e8ee3900cd49e94f0e9854233e198b6589738cf286",
+      "openjdk.pem": "63332cac716d6715bd1c59c35d35eca9085939027e36c76bdc976816ef037ed4",
+      "openjdk.yaml": "5fc26f68482b00cf8d6284d50097d7cfcec43a876b08c54c1e458e0f7a644f51",
+      "oracle_java.pem": "daaebef2bfd91b295c5d70e76e3206325ee5c92a6d0a1cde90c1e3d62491e4d6",
+      "oracle_java.yaml": "3968a876cbf552ae45b7aedac2bb087679480fa46eadfdc92ccf8d6bb7feefc5"
+    }
+  },
+  "settings": {
+    "timeout_s": 12,
+    "dns_timeout_s": 10,
+    "delay_s": 1,
+    "retries": 1,
+    "default_port": 443,
+    "location": "Reykjavik University, Iceland",
+    "limit": null,
+    "cafile": null,
+    "cafile_sha256": null,
+    "sslyze": {
+      "commands": [
+        "certificate_info",
+        "tls_1_0_cipher_suites",
+        "tls_1_1_cipher_suites",
+        "tls_1_2_cipher_suites",
+        "tls_1_3_cipher_suites",
+        "elliptic_curves",
+        "session_resumption",
+        "tls_1_3_early_data",
+        "tls_compression",
+        "tls_fallback_scsv",
+        "tls_extended_master_secret",
+        "http_headers",
+        "ssl_2_0_cipher_suites",
+        "ssl_3_0_cipher_suites"
+      ],
+      "network_timeout": 5,
+      "network_retries": 1,
+      "connections": 2,
+      "deadline_s": 300,
+      "resumption_attempts": 3,
+      "cafile": null
+    }
+  },
+  "profiles": {
+    "tls13_classical": {
+      "tls": "TLSv1.3",
+      "groups": "X25519:P-256:P-384"
+    },
+    "tls13_hybrid_only": {
+      "tls": "TLSv1.3",
+      "groups": "X25519MLKEM768"
+    },
+    "tls13_mixed": {
+      "tls": "TLSv1.3",
+      "groups": "X25519MLKEM768:X25519:P-256:P-384"
+    }
+  },
+  "tls13_ciphers": "TLS_AES_128_GCM_SHA256:TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256",
+  "tls12_ciphers": "ECDHE+AESGCM:ECDHE+CHACHA20",
+  "python_version": "3.14.4 (main, Aug 20 2026, 10:41:58) [GCC 15.2.0]",
+  "platform": "Linux-7.0.0-42-generic-x86_64-with-glibc2.43",
+  "duplicates_removed": [],
+  "method": {
+    "address_selection": "numerically lowest returned IPv4; fixed across profiles and resume",
+    "profile_order": "DNS, rotating three TLS 1.3 PQC profiles, then SSLyze inventory",
+    "pqc_alpn_offer": "h2,http/1.1",
+    "pqc_certificate_verification": true,
+    "pqc_resumption": "fresh s_client process each attempt; no session/PSK input; received tickets never reused",
+    "sslyze_certificate_verification": "inventory probes can complete with untrusted certificates; CERTIFICATE_INFO evaluates trust separately",
+    "sslyze_resumption": "explicit session-ID and ticket tests at TLS 1.2 or below; TLS 1.3 early-data tested separately",
+    "sslyze_sni": "hostname sent, except the library's explicit no-SNI certificate comparison",
+    "http_headers_enabled": true,
+    "http_redirects": "SSLyze HTTP_HEADERS may follow same-host/same-port redirects; PQC adapter sends no HTTP",
+    "timing": "process_elapsed_ms includes process startup, TCP, TLS and shutdown; NOT handshake-only",
+    "trust_store": "PQC: OpenSSL defaults plus --cafile; SSLyze: bundled stores plus --cafile as an additional store"
+  },
+  "invocations": [
+    {
+      "utc": "2026-11-05T12:42:24.854+00:00",
+      "argv": [
+        "collect_pqc_tls.py",
+        "websites.txt",
+        "--out",
+        "survey_3",
+        "--http-headers",
+        "--obsolete-ssl",
+        "--location",
+        "Reykjavik University, Iceland"
+      ],
+      "resume": false
+    }
+  ],
+  "state": "complete",
+  "updated_utc": "2026-11-05T13:29:17.005+00:00",
+  "last_error": null
+}

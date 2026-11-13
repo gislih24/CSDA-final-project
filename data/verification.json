@@ -1,0 +1,172 @@
+{
+  "baseline_counts": {
+    "supported": 48,
+    "not_observed": 33,
+    "inconclusive": 19
+  },
+  "category_counts": [
+    [
+      "Travel",
+      9,
+      1,
+      0
+    ],
+    [
+      "Municipalities",
+      6,
+      3,
+      1
+    ],
+    [
+      "Finance",
+      5,
+      5,
+      0
+    ],
+    [
+      "Media",
+      5,
+      3,
+      2
+    ],
+    [
+      "Retail",
+      5,
+      2,
+      3
+    ],
+    [
+      "Healthcare",
+      4,
+      1,
+      5
+    ],
+    [
+      "Infrastructure",
+      4,
+      5,
+      1
+    ],
+    [
+      "Technology",
+      4,
+      4,
+      2
+    ],
+    [
+      "Government",
+      3,
+      3,
+      4
+    ],
+    [
+      "Education",
+      3,
+      6,
+      1
+    ]
+  ],
+  "baseline_date": "2026-11-05T13:29:16.789+00:00",
+  "advanced_attempts": 4200,
+  "address_pairs": 280,
+  "ipv4_pairs": 212,
+  "ipv6_pairs": 68,
+  "unique_hostnames": 153,
+  "terminal_https": 97,
+  "terminal_hybrid": 63,
+  "all_hops_hybrid": 46,
+  "unique_positive_terminal_hostnames": 53,
+  "order_sensitive_ipv4_pairs": 2,
+  "legacy_tls10": 8,
+  "legacy_tls11": 9,
+  "benchmark_measured_trials": 7200,
+  "benchmark_warmup_trials": 1800,
+  "benchmark_summary_reproduced": true,
+  "source_hash_checks": [
+    {
+      "file": "recovered/CSDA - Final project in PQC TLS/survey_3/survey_3/source/collect_pqc_tls.py",
+      "match": true,
+      "sha256": "f87c8607472a58e3ca2b19985f6d54932615dfdc3519031d4ed51ac50387e68f"
+    },
+    {
+      "file": "recovered/CSDA - Final project in PQC TLS/survey_3/survey_3/source/pqc_probe.py",
+      "match": true,
+      "sha256": "a916a5343d88cd4bb74e5796b50c726f6bd0185b7fbdab2dd9b3034d76db2348"
+    },
+    {
+      "file": "recovered/CSDA - Final project in PQC TLS/survey_3/survey_3/source/sslyze_inventory.py",
+      "match": true,
+      "sha256": "74b1f5a04680de817f8f3b5b263ac3fcd885f8eb5c2abd03721dc95c1c4ff2b5"
+    },
+    {
+      "file": "recovered/CSDA - Final project in PQC TLS/survey_3/survey_3_advanced/source/advanced_survey.py",
+      "match": true,
+      "sha256": "bcefba66be9ed6ea8e70c6e4f5c86e2c594996751e211916e47d46e0bc5a207e"
+    },
+    {
+      "file": "recovered/CSDA - Final project in PQC TLS/survey_3/survey_3_advanced/source/pqc_probe.py",
+      "match": true,
+      "sha256": "a916a5343d88cd4bb74e5796b50c726f6bd0185b7fbdab2dd9b3034d76db2348"
+    },
+    {
+      "file": "recovered/Archive/snapshot/Makefile",
+      "match": true,
+      "sha256": "819ec9a9979c01fac0c217a70fb88482f2a08b0ab038f552daeafc2adbc816c9"
+    },
+    {
+      "file": "recovered/Archive/snapshot/README.md",
+      "match": true,
+      "sha256": "4810f041a6743346cc57bad44b33d52ac6d4879a504a57169aad95f3ddf4828f"
+    },
+    {
+      "file": "recovered/Archive/snapshot/analyze.py",
+      "match": true,
+      "sha256": "d1e9d05be8a84176d89171ef415f46cdf660f971a8b5c38bd6b2141f029069ce"
+    },
+    {
+      "file": "recovered/Archive/snapshot/bench.cpp",
+      "match": true,
+      "sha256": "1a1baa9f7eda44284a5fa0f329f57af9ebb3668b696aab7894beca30353b390b"
+    },
+    {
+      "file": "recovered/Archive/snapshot/certs.sh",
+      "match": true,
+      "sha256": "ff10c2d53e7bada642a4574251aaf44a207153bf6fe9d2a1b56fb7092f6a07e6"
+    },
+    {
+      "file": "recovered/Archive/snapshot/net.sh",
+      "match": true,
+      "sha256": "ae53ead3535bfbb8973a6240d3f4d95e29f6ff1dc49a621b167065269ec1d9ef"
+    },
+    {
+      "file": "recovered/Archive/snapshot/run.py",
+      "match": true,
+      "sha256": "7bab691e15bb4995d7666259f7f88276be47a0a1338374b74310a8843e8733b8"
+    },
+    {
+      "file": "recovered/Archive/snapshot/selftest.py",
+      "match": true,
+      "sha256": "95191a1fb7df491241396759a2c561e022cb72244fcf9bd542fdb6218370f3a6"
+    },
+    {
+      "file": "recovered/Archive/snapshot/test_analysis.py",
+      "match": true,
+      "sha256": "d45a6eb81aef42b1c046e56fb5aec170dd9e271987324a78a65f91d218992f2d"
+    },
+    {
+      "file": "recovered/Archive/snapshot/tlsbench",
+      "match": true,
+      "sha256": "a7218d53d912065a5ec3bce5768fe0bdc885e98c93fa0890cf600711bd996763"
+    },
+    {
+      "file": "recovered/Archive/snapshot/ca.pem",
+      "match": true,
+      "sha256": "6b3c871da548d50737980e7fabeb709a24d01a4266e67aa2bae143eb5b2149a1"
+    },
+    {
+      "file": "recovered/Archive/snapshot/server.pem",
+      "match": true,
+      "sha256": "b5bd59dd200b966c469d9eae271e5a67cf8d010ac705364f5e6cd213e1d0fac5"
+    }
+  ]
+}

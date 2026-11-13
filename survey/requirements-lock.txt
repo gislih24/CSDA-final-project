@@ -1,0 +1,16 @@
+# Exact Python dependencies used for validation on Linux / Python 3.12.
+annotated-types==0.8.0
+cffi==2.1.1
+cryptography==46.0.7
+markdown-it-py==4.2.0
+mdurl==0.1.2
+nassl==5.4.0
+pycparser==3.12
+pydantic==2.14.1
+pydantic_core==2.50.1
+Pygments==2.21.0
+rich==15.0.0
+sslyze==6.3.1
+tls_parser==2.0.2
+typing-inspection==0.4.4
+typing_extensions==4.16.0

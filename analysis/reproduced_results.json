@@ -1,0 +1,77 @@
+{
+  "baseline": {
+    "supported": 48,
+    "not_observed": 33,
+    "inconclusive": 19
+  },
+  "advanced_attempts": 4200,
+  "address_pairs": 280,
+  "terminal_https_chains": 97,
+  "starts_with_hybrid_terminal": 63,
+  "starts_with_all_discovered_hosts_hybrid_capable": 46,
+  "unique_hybrid_terminal_hostnames": 53,
+  "positive_ipv4_pairs": 130,
+  "order_sensitive_pairs": [
+    {
+      "hostname": "guidetoiceland.is",
+      "ip": "151.101.1.207"
+    },
+    {
+      "hostname": "guidetoiceland.is",
+      "ip": "151.101.65.207"
+    }
+  ],
+  "ipv6_outcomes": {
+    "network_error": 1020
+  },
+  "tls10_baseline": 8,
+  "tls11_baseline": 9,
+  "measured_benchmark_connections": 7200,
+  "warmup_benchmark_connections": 1800,
+  "benchmark_summary_reproduced": true,
+  "matched_source_hashes": 14,
+  "handshake_differences": {
+    "A": {
+      "difference_ms": 2.5325405883333336,
+      "ci95_ms": [
+        0.7874029487916673,
+        4.827810591250001
+      ]
+    },
+    "B": {
+      "difference_ms": 0.24469874833333094,
+      "ci95_ms": [
+        0.21462609391666537,
+        0.27501181474999253
+      ]
+    },
+    "C": {
+      "difference_ms": 0.26648906000000494,
+      "ci95_ms": [
+        0.24044227412499222,
+        0.293351505833348
+      ]
+    },
+    "D": {
+      "difference_ms": 0.24031945833340274,
+      "ci95_ms": [
+        0.21183209983333812,
+        0.2691993514999986
+      ]
+    },
+    "E": {
+      "difference_ms": 1.8607367433333408,
+      "ci95_ms": [
+        1.8256932961249979,
+        1.893245230833338
+      ]
+    },
+    "F": {
+      "difference_ms": 18.854223608333328,
+      "ci95_ms": [
+        18.822263370833337,
+        18.884608794666676
+      ]
+    }
+  }
+}

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+survey/.venv/
+benchmark/tlsbench
+benchmark/certs/
+benchmark/results/

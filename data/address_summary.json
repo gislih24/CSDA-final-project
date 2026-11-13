@@ -1,0 +1,7287 @@
+[
+  {
+    "hostname": "advania.is",
+    "port": 443,
+    "ip": "82.221.64.234",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "P-256": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "akureyri.is",
+    "port": 443,
+    "ip": "76.76.21.21",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "althingi.is",
+    "port": 443,
+    "ip": "2a06:98c1:3122:8000::2",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "althingi.is",
+    "port": 443,
+    "ip": "2a06:98c1:3123:8000::2",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "althingi.is",
+    "port": 443,
+    "ip": "8.47.69.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "althingi.is",
+    "port": 443,
+    "ip": "8.6.112.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "arborg.is",
+    "port": 443,
+    "ip": "93.95.226.26",
+    "family": 4,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "timeout": 3
+    },
+    "hybrid_only_outcomes": {
+      "timeout": 3
+    },
+    "mixed_original_outcomes": {
+      "timeout": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "timeout": 3
+    },
+    "dual_classical_first_outcomes": {
+      "timeout": 3
+    }
+  },
+  {
+    "hostname": "arionbanki.is",
+    "port": 443,
+    "ip": "88.151.50.117",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "P-384": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "audkenni.is",
+    "port": 443,
+    "ip": "76.76.21.21",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "bifrost.is",
+    "port": 443,
+    "ip": "185.118.33.27",
+    "family": 4,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "bland.is",
+    "port": 443,
+    "ip": "80.248.18.151",
+    "family": 4,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "tls_alert": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "tls_alert": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "tls_alert": 3
+    },
+    "dual_classical_first_outcomes": {
+      "tls_alert": 3
+    }
+  },
+  {
+    "hostname": "bluelagoon.com",
+    "port": 443,
+    "ip": "2a06:98c1:3122:8000::2",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "bluelagoon.com",
+    "port": 443,
+    "ip": "2a06:98c1:3123:8000::2",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "bluelagoon.com",
+    "port": 443,
+    "ip": "8.47.69.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "bluelagoon.com",
+    "port": 443,
+    "ip": "8.6.112.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "bonus.is",
+    "port": 443,
+    "ip": "2a06:98c1:3122:8000::2",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "bonus.is",
+    "port": 443,
+    "ip": "2a06:98c1:3123:8000::2",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "bonus.is",
+    "port": 443,
+    "ip": "8.47.69.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "bonus.is",
+    "port": 443,
+    "ip": "8.6.112.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 11,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 2,
+      "timeout": 1
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "byko.is",
+    "port": 443,
+    "ip": "216.150.1.1",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "cb.is",
+    "port": 443,
+    "ip": "82.221.64.128",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "P-256": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "dv.is",
+    "port": 443,
+    "ip": "185.248.123.3",
+    "family": 4,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "tls_alert": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "tls_alert": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "tls_alert": 3
+    },
+    "dual_classical_first_outcomes": {
+      "tls_alert": 3
+    }
+  },
+  {
+    "hostname": "elko.is",
+    "port": 443,
+    "ip": "35.71.160.1",
+    "family": 4,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "no_handshake": 3
+    },
+    "hybrid_only_outcomes": {
+      "no_handshake": 3
+    },
+    "mixed_original_outcomes": {
+      "no_handshake": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "no_handshake": 3
+    },
+    "dual_classical_first_outcomes": {
+      "no_handshake": 3
+    }
+  },
+  {
+    "hostname": "elko.is",
+    "port": 443,
+    "ip": "52.223.50.242",
+    "family": 4,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "no_handshake": 3
+    },
+    "hybrid_only_outcomes": {
+      "no_handshake": 3
+    },
+    "mixed_original_outcomes": {
+      "no_handshake": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "no_handshake": 3
+    },
+    "dual_classical_first_outcomes": {
+      "no_handshake": 3
+    }
+  },
+  {
+    "hostname": "fjarskiptastofa.is",
+    "port": 443,
+    "ip": "34.251.144.192",
+    "family": 4,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "no_handshake": 3
+    },
+    "hybrid_only_outcomes": {
+      "no_handshake": 3
+    },
+    "mixed_original_outcomes": {
+      "no_handshake": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "no_handshake": 3
+    },
+    "dual_classical_first_outcomes": {
+      "no_handshake": 3
+    }
+  },
+  {
+    "hostname": "fjarskiptastofa.is",
+    "port": 443,
+    "ip": "54.77.239.177",
+    "family": 4,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "no_handshake": 3
+    },
+    "hybrid_only_outcomes": {
+      "no_handshake": 3
+    },
+    "mixed_original_outcomes": {
+      "no_handshake": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "no_handshake": 3
+    },
+    "dual_classical_first_outcomes": {
+      "no_handshake": 3
+    }
+  },
+  {
+    "hostname": "fotbolti.net",
+    "port": 443,
+    "ip": "2a06:98c1:3122:8000::2",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "fotbolti.net",
+    "port": 443,
+    "ip": "2a06:98c1:3123:8000::2",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "fotbolti.net",
+    "port": 443,
+    "ip": "8.47.69.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 11,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 2,
+      "timeout": 1
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "fotbolti.net",
+    "port": 443,
+    "ip": "8.6.112.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "gardabaer.is",
+    "port": 443,
+    "ip": "216.150.1.1",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "grapevine.is",
+    "port": 443,
+    "ip": "94.130.65.115",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "guidetoiceland.is",
+    "port": 443,
+    "ip": "151.101.1.207",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 9,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "guidetoiceland.is",
+    "port": 443,
+    "ip": "151.101.65.207",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 9,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "hafnarfjordur.is",
+    "port": 443,
+    "ip": "192.248.181.117",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "hagkaup.is",
+    "port": 443,
+    "ip": "76.76.21.21",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "hagstofa.is",
+    "port": 443,
+    "ip": "157.157.115.20",
+    "family": 4,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "tls_alert": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "tls_alert": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "tls_alert": 3
+    },
+    "dual_classical_first_outcomes": {
+      "tls_alert": 3
+    }
+  },
+  {
+    "hostname": "heilsugaeslan.is",
+    "port": 443,
+    "ip": "34.251.144.192",
+    "family": 4,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "no_handshake": 3
+    },
+    "hybrid_only_outcomes": {
+      "no_handshake": 3
+    },
+    "mixed_original_outcomes": {
+      "no_handshake": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "no_handshake": 3
+    },
+    "dual_classical_first_outcomes": {
+      "no_handshake": 3
+    }
+  },
+  {
+    "hostname": "heilsugaeslan.is",
+    "port": 443,
+    "ip": "54.77.239.177",
+    "family": 4,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "no_handshake": 3
+    },
+    "hybrid_only_outcomes": {
+      "no_handshake": 3
+    },
+    "mixed_original_outcomes": {
+      "no_handshake": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "no_handshake": 3
+    },
+    "dual_classical_first_outcomes": {
+      "no_handshake": 3
+    }
+  },
+  {
+    "hostname": "heilsuvera.is",
+    "port": 443,
+    "ip": "20.107.224.16",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "P-384": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "heimildin.is",
+    "port": 443,
+    "ip": "188.166.193.42",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "heimkaup.is",
+    "port": 443,
+    "ip": "51.195.176.168",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "hi.is",
+    "port": 443,
+    "ip": "130.208.143.172",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "hi.is",
+    "port": 443,
+    "ip": "2a00:c88:4000:1431::143:172",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "holar.is",
+    "port": 443,
+    "ip": "52.49.138.181",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "P-384": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "P-384": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "tls_alert": 3
+    },
+    "dual_classical_first_outcomes": {
+      "tls_alert": 3
+    }
+  },
+  {
+    "hostname": "hringdu.is",
+    "port": 443,
+    "ip": "46.22.100.158",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "hsa.is",
+    "port": 443,
+    "ip": "34.251.144.192",
+    "family": 4,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "no_handshake": 3
+    },
+    "hybrid_only_outcomes": {
+      "no_handshake": 3
+    },
+    "mixed_original_outcomes": {
+      "no_handshake": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "no_handshake": 3
+    },
+    "dual_classical_first_outcomes": {
+      "no_handshake": 3
+    }
+  },
+  {
+    "hostname": "hsa.is",
+    "port": 443,
+    "ip": "54.77.239.177",
+    "family": 4,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "no_handshake": 3
+    },
+    "hybrid_only_outcomes": {
+      "no_handshake": 3
+    },
+    "mixed_original_outcomes": {
+      "no_handshake": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "no_handshake": 3
+    },
+    "dual_classical_first_outcomes": {
+      "no_handshake": 3
+    }
+  },
+  {
+    "hostname": "hsn.is",
+    "port": 443,
+    "ip": "2a05:d018:ed6:eb0c:52:49:138:181",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "hsn.is",
+    "port": 443,
+    "ip": "52.49.138.181",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "P-384": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "P-384": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "tls_alert": 3
+    },
+    "dual_classical_first_outcomes": {
+      "tls_alert": 3
+    }
+  },
+  {
+    "hostname": "hsorka.is",
+    "port": 443,
+    "ip": "51.104.28.71",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "P-384": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "hss.is",
+    "port": 443,
+    "ip": "34.251.144.192",
+    "family": 4,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "no_handshake": 3
+    },
+    "hybrid_only_outcomes": {
+      "no_handshake": 3
+    },
+    "mixed_original_outcomes": {
+      "no_handshake": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "no_handshake": 3
+    },
+    "dual_classical_first_outcomes": {
+      "no_handshake": 3
+    }
+  },
+  {
+    "hostname": "hss.is",
+    "port": 443,
+    "ip": "54.77.239.177",
+    "family": 4,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "no_handshake": 3
+    },
+    "hybrid_only_outcomes": {
+      "no_handshake": 3
+    },
+    "mixed_original_outcomes": {
+      "no_handshake": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "no_handshake": 3
+    },
+    "dual_classical_first_outcomes": {
+      "no_handshake": 3
+    }
+  },
+  {
+    "hostname": "hsu.is",
+    "port": 443,
+    "ip": "178.248.20.132",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "hsveitur.is",
+    "port": 443,
+    "ip": "40.115.98.85",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "P-384": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "husa.is",
+    "port": 443,
+    "ip": "150.171.109.241",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "P-256": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "husa.is",
+    "port": 443,
+    "ip": "2603:1061:14:f0::1",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "hve.is",
+    "port": 443,
+    "ip": "34.251.144.192",
+    "family": 4,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "no_handshake": 3
+    },
+    "hybrid_only_outcomes": {
+      "no_handshake": 3
+    },
+    "mixed_original_outcomes": {
+      "no_handshake": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "no_handshake": 3
+    },
+    "dual_classical_first_outcomes": {
+      "no_handshake": 3
+    }
+  },
+  {
+    "hostname": "hve.is",
+    "port": 443,
+    "ip": "54.77.239.177",
+    "family": 4,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "no_handshake": 3
+    },
+    "hybrid_only_outcomes": {
+      "no_handshake": 3
+    },
+    "mixed_original_outcomes": {
+      "no_handshake": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "no_handshake": 3
+    },
+    "dual_classical_first_outcomes": {
+      "no_handshake": 3
+    }
+  },
+  {
+    "hostname": "icelandair.com",
+    "port": 443,
+    "ip": "8.47.69.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "icelandair.com",
+    "port": 443,
+    "ip": "8.6.112.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "icelandreview.com",
+    "port": 443,
+    "ip": "104.21.93.82",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "icelandreview.com",
+    "port": 443,
+    "ip": "172.67.207.155",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "icelandtravel.is",
+    "port": 443,
+    "ip": "76.76.21.21",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "ikea.is",
+    "port": 443,
+    "ip": "185.191.235.228",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "P-384": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "P-384": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "tls_alert": 3
+    },
+    "dual_classical_first_outcomes": {
+      "tls_alert": 3
+    }
+  },
+  {
+    "hostname": "indo.is",
+    "port": 443,
+    "ip": "3.174.18.22",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "indo.is",
+    "port": 443,
+    "ip": "3.174.18.39",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "isafjordur.is",
+    "port": 443,
+    "ip": "2a05:d018:ed6:eb0c:52:49:138:181",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "isafjordur.is",
+    "port": 443,
+    "ip": "52.49.138.181",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "P-384": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "P-384": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "tls_alert": 3
+    },
+    "dual_classical_first_outcomes": {
+      "tls_alert": 3
+    }
+  },
+  {
+    "hostname": "isavia.is",
+    "port": 443,
+    "ip": "2a06:98c1:3122:8000::2",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "isavia.is",
+    "port": 443,
+    "ip": "2a06:98c1:3123:8000::2",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "isavia.is",
+    "port": 443,
+    "ip": "8.47.69.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "isavia.is",
+    "port": 443,
+    "ip": "8.6.112.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "island.is",
+    "port": 443,
+    "ip": "65.9.106.33",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "island.is",
+    "port": 443,
+    "ip": "65.9.106.5",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "islandsbanki.is",
+    "port": 443,
+    "ip": "46.28.152.192",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "isnic.is",
+    "port": 443,
+    "ip": "185.93.157.44",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "isnic.is",
+    "port": 443,
+    "ip": "193.4.58.166",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "isnic.is",
+    "port": 443,
+    "ip": "2001:67c:6c:1000::44",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "isnic.is",
+    "port": 443,
+    "ip": "2001:67c:6c:58::166",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "kefairport.is",
+    "port": 443,
+    "ip": "2a06:98c1:3122:8000::2",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "kefairport.is",
+    "port": 443,
+    "ip": "2a06:98c1:3123:8000::2",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "kefairport.is",
+    "port": 443,
+    "ip": "8.47.69.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "kefairport.is",
+    "port": 443,
+    "ip": "8.6.112.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 11,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "timeout": 1,
+      "X25519MLKEM768": 2
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "kopavogur.is",
+    "port": 443,
+    "ip": "216.150.1.1",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "kopavogur.is",
+    "port": 443,
+    "ip": "216.150.16.1",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "krabb.is",
+    "port": 443,
+    "ip": "76.76.21.21",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "kronan.is",
+    "port": 443,
+    "ip": "15.197.208.39",
+    "family": 4,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "no_handshake": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "kvika.is",
+    "port": 443,
+    "ip": "76.76.21.21",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "landsbankinn.is",
+    "port": 443,
+    "ip": "89.104.145.153",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "P-256": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "landsnet.is",
+    "port": 443,
+    "ip": "82.221.64.168",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "P-256": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "landspitali.is",
+    "port": 443,
+    "ip": "34.251.144.192",
+    "family": 4,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "no_handshake": 3
+    },
+    "hybrid_only_outcomes": {
+      "no_handshake": 3
+    },
+    "mixed_original_outcomes": {
+      "no_handshake": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "no_handshake": 3
+    },
+    "dual_classical_first_outcomes": {
+      "no_handshake": 3
+    }
+  },
+  {
+    "hostname": "landspitali.is",
+    "port": 443,
+    "ip": "54.77.239.177",
+    "family": 4,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "no_handshake": 3
+    },
+    "hybrid_only_outcomes": {
+      "no_handshake": 3
+    },
+    "mixed_original_outcomes": {
+      "no_handshake": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "no_handshake": 3
+    },
+    "dual_classical_first_outcomes": {
+      "no_handshake": 3
+    }
+  },
+  {
+    "hostname": "landsvirkjun.com",
+    "port": 443,
+    "ip": "76.76.21.21",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "lbhi.is",
+    "port": 443,
+    "ip": "162.159.141.232",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "lhi.is",
+    "port": 443,
+    "ip": "95.179.255.35",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "lsr.is",
+    "port": 443,
+    "ip": "20.107.224.56",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "P-384": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "lyfja.is",
+    "port": 443,
+    "ip": "20.107.224.7",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "P-384": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "mbl.is",
+    "port": 443,
+    "ip": "8.47.69.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "mbl.is",
+    "port": 443,
+    "ip": "8.6.112.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "mh.is",
+    "port": 443,
+    "ip": "52.49.138.181",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "P-384": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "P-384": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "tls_alert": 3
+    },
+    "dual_classical_first_outcomes": {
+      "tls_alert": 3
+    }
+  },
+  {
+    "hostname": "mos.is",
+    "port": 443,
+    "ip": "104.21.67.159",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "mos.is",
+    "port": 443,
+    "ip": "172.67.177.244",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "mos.is",
+    "port": 443,
+    "ip": "2606:4700:3030::ac43:b1f4",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "mos.is",
+    "port": 443,
+    "ip": "2606:4700:3032::6815:439f",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "netto.is",
+    "port": 443,
+    "ip": "198.202.211.1",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "no.is",
+    "port": 443,
+    "ip": "2a05:d018:ed6:eb0c:52:49:138:181",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "no.is",
+    "port": 443,
+    "ip": "52.49.138.181",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "P-384": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "P-384": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "tls_alert": 3
+    },
+    "dual_classical_first_outcomes": {
+      "tls_alert": 3
+    }
+  },
+  {
+    "hostname": "nova.is",
+    "port": 443,
+    "ip": "78.40.251.69",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "on.is",
+    "port": 443,
+    "ip": "31.43.160.6",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "on.is",
+    "port": 443,
+    "ip": "31.43.161.6",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "or.is",
+    "port": 443,
+    "ip": "193.4.101.84",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "P-256": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "P-256": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "tls_alert": 3
+    },
+    "dual_classical_first_outcomes": {
+      "tls_alert": 3
+    }
+  },
+  {
+    "hostname": "orkuveitan.is",
+    "port": 443,
+    "ip": "216.150.1.1",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "ov.is",
+    "port": 443,
+    "ip": "40.127.136.225",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "rarik.is",
+    "port": 443,
+    "ip": "54.194.251.180",
+    "family": 4,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "no_handshake": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "re.is",
+    "port": 443,
+    "ip": "2a06:98c1:3122:8000::2",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "re.is",
+    "port": 443,
+    "ip": "2a06:98c1:3123:8000::2",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "re.is",
+    "port": 443,
+    "ip": "8.47.69.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "re.is",
+    "port": 443,
+    "ip": "8.6.112.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "reykjanesbaer.is",
+    "port": 443,
+    "ip": "2a05:d018:ed6:eb0c:52:49:138:181",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "reykjanesbaer.is",
+    "port": 443,
+    "ip": "76.76.21.21",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "reykjavik.is",
+    "port": 443,
+    "ip": "20.93.147.170",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "ru.is",
+    "port": 443,
+    "ip": "76.76.21.21",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "ruv.is",
+    "port": 443,
+    "ip": "2a06:98c1:3122:8000::2",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "ruv.is",
+    "port": 443,
+    "ip": "2a06:98c1:3123:8000::2",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "ruv.is",
+    "port": 443,
+    "ip": "8.47.69.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "ruv.is",
+    "port": 443,
+    "ip": "8.6.112.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "safetravel.is",
+    "port": 443,
+    "ip": "185.248.120.75",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "siminn.is",
+    "port": 443,
+    "ip": "63.32.131.113",
+    "family": 4,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "no_handshake": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "sjova.is",
+    "port": 443,
+    "ip": "82.221.64.46",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "P-256": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "skatturinn.is",
+    "port": 443,
+    "ip": "82.221.67.23",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "P-256": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "skra.is",
+    "port": 443,
+    "ip": "128.140.238.8",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "stjornarradid.is",
+    "port": 443,
+    "ip": "2a06:98c1:3122:8000::2",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "stjornarradid.is",
+    "port": 443,
+    "ip": "2a06:98c1:3123:8000::2",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "stjornarradid.is",
+    "port": 443,
+    "ip": "8.47.69.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "stjornarradid.is",
+    "port": 443,
+    "ip": "8.6.112.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "straeto.is",
+    "port": 443,
+    "ip": "76.76.21.21",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "syn.is",
+    "port": 443,
+    "ip": "216.150.1.193",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "syndis.com",
+    "port": 443,
+    "ip": "216.150.1.1",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "syndis.com",
+    "port": 443,
+    "ip": "216.150.16.1",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "syndis.is",
+    "port": 443,
+    "ip": "2a06:98c1:3122:8000::2",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "syndis.is",
+    "port": 443,
+    "ip": "2a06:98c1:3123:8000::2",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "syndis.is",
+    "port": 443,
+    "ip": "8.47.69.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "syndis.is",
+    "port": 443,
+    "ip": "8.6.112.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "tl.is",
+    "port": 443,
+    "ip": "3.33.197.99",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "tolvutek.is",
+    "port": 443,
+    "ip": "104.21.70.43",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "tolvutek.is",
+    "port": 443,
+    "ip": "172.67.219.116",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "tolvutek.is",
+    "port": 443,
+    "ip": "2606:4700:3030::6815:462b",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "tolvutek.is",
+    "port": 443,
+    "ip": "2606:4700:3037::ac43:db74",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "tskoli.is",
+    "port": 443,
+    "ip": "104.21.5.165",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "tskoli.is",
+    "port": 443,
+    "ip": "172.67.133.161",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "tskoli.is",
+    "port": 443,
+    "ip": "2606:4700:3032::6815:5a5",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "tskoli.is",
+    "port": 443,
+    "ip": "2606:4700:3037::ac43:85a1",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "unak.is",
+    "port": 443,
+    "ip": "52.49.138.181",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "P-384": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "P-384": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "tls_alert": 3
+    },
+    "dual_classical_first_outcomes": {
+      "tls_alert": 3
+    }
+  },
+  {
+    "hostname": "vb.is",
+    "port": 443,
+    "ip": "2a06:98c1:3122:8000::2",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "vb.is",
+    "port": 443,
+    "ip": "2a06:98c1:3123:8000::2",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "vb.is",
+    "port": 443,
+    "ip": "8.47.69.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "vb.is",
+    "port": 443,
+    "ip": "8.6.112.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "vedur.is",
+    "port": 443,
+    "ip": "130.208.87.200",
+    "family": 4,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "tls_alert": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "tls_alert": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "tls_alert": 3
+    },
+    "dual_classical_first_outcomes": {
+      "tls_alert": 3
+    }
+  },
+  {
+    "hostname": "vegagerdin.is",
+    "port": 443,
+    "ip": "185.147.137.88",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "veitur.is",
+    "port": 443,
+    "ip": "20.107.134.152",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "verslo.is",
+    "port": 443,
+    "ip": "108.61.171.137",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "verslo.is",
+    "port": 443,
+    "ip": "2001:19f0:6c01:34f:5400:4ff:fe90:8e28",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "vestmannaeyjar.is",
+    "port": 443,
+    "ip": "52.49.138.181",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "P-384": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "P-384": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "tls_alert": 3
+    },
+    "dual_classical_first_outcomes": {
+      "tls_alert": 3
+    }
+  },
+  {
+    "hostname": "vinnumalastofnun.is",
+    "port": 443,
+    "ip": "34.251.144.192",
+    "family": 4,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "no_handshake": 3
+    },
+    "hybrid_only_outcomes": {
+      "no_handshake": 3
+    },
+    "mixed_original_outcomes": {
+      "no_handshake": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "no_handshake": 3
+    },
+    "dual_classical_first_outcomes": {
+      "no_handshake": 3
+    }
+  },
+  {
+    "hostname": "vinnumalastofnun.is",
+    "port": 443,
+    "ip": "54.77.239.177",
+    "family": 4,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "no_handshake": 3
+    },
+    "hybrid_only_outcomes": {
+      "no_handshake": 3
+    },
+    "mixed_original_outcomes": {
+      "no_handshake": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "no_handshake": 3
+    },
+    "dual_classical_first_outcomes": {
+      "no_handshake": 3
+    }
+  },
+  {
+    "hostname": "vis.is",
+    "port": 443,
+    "ip": "82.221.64.255",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "P-256": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "visindavefur.is",
+    "port": 443,
+    "ip": "130.208.148.10",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "visindavefur.is",
+    "port": 443,
+    "ip": "2a00:c88:4000:1480::148:10",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "visir.is",
+    "port": 443,
+    "ip": "185.21.16.109",
+    "family": 4,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "tls_alert": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "tls_alert": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "tls_alert": 3
+    },
+    "dual_classical_first_outcomes": {
+      "tls_alert": 3
+    }
+  },
+  {
+    "hostname": "visir.is",
+    "port": 443,
+    "ip": "185.21.16.110",
+    "family": 4,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "tls_alert": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "tls_alert": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "tls_alert": 3
+    },
+    "dual_classical_first_outcomes": {
+      "tls_alert": 3
+    }
+  },
+  {
+    "hostname": "visiticeland.com",
+    "port": 443,
+    "ip": "216.150.1.193",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "visiticeland.com",
+    "port": 443,
+    "ip": "216.150.16.193",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "vodafone.is",
+    "port": 443,
+    "ip": "193.4.97.200",
+    "family": 4,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "vordur.is",
+    "port": 443,
+    "ip": "2a06:98c1:3122:8000::2",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "vordur.is",
+    "port": 443,
+    "ip": "2a06:98c1:3123:8000::2",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "vordur.is",
+    "port": 443,
+    "ip": "8.47.69.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "vordur.is",
+    "port": 443,
+    "ip": "8.6.112.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.akureyri.is",
+    "port": 443,
+    "ip": "66.33.60.130",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.akureyri.is",
+    "port": 443,
+    "ip": "76.76.21.61",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.althingi.is",
+    "port": 443,
+    "ip": "2a06:98c1:3122:8000::2",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "www.althingi.is",
+    "port": 443,
+    "ip": "2a06:98c1:3123:8000::2",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "www.althingi.is",
+    "port": 443,
+    "ip": "8.47.69.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.althingi.is",
+    "port": 443,
+    "ip": "8.6.112.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.arionbanki.is",
+    "port": 443,
+    "ip": "88.151.50.118",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "www.bifrost.is",
+    "port": 443,
+    "ip": "185.118.33.27",
+    "family": 4,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "www.bluelagoon.com",
+    "port": 443,
+    "ip": "2a06:98c1:3122:8000::2",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "www.bluelagoon.com",
+    "port": 443,
+    "ip": "2a06:98c1:3123:8000::2",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "www.bluelagoon.com",
+    "port": 443,
+    "ip": "8.47.69.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.bluelagoon.com",
+    "port": 443,
+    "ip": "8.6.112.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.gardabaer.is",
+    "port": 443,
+    "ip": "216.150.1.193",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.gardabaer.is",
+    "port": 443,
+    "ip": "216.150.16.193",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.heilsuvera.is",
+    "port": 443,
+    "ip": "20.107.224.16",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "P-384": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.holar.is",
+    "port": 443,
+    "ip": "2a05:d018:ed6:eb0c:52:49:138:181",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "www.holar.is",
+    "port": 443,
+    "ip": "52.49.138.181",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "P-384": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "P-384": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "tls_alert": 3
+    },
+    "dual_classical_first_outcomes": {
+      "tls_alert": 3
+    }
+  },
+  {
+    "hostname": "www.hsorka.is",
+    "port": 443,
+    "ip": "51.104.28.71",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "P-384": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.hsveitur.is",
+    "port": 443,
+    "ip": "40.115.98.85",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "P-384": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.husa.is",
+    "port": 443,
+    "ip": "150.171.109.194",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "P-256": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.husa.is",
+    "port": 443,
+    "ip": "2603:1061:14:c1::1",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "www.icelandair.com",
+    "port": 443,
+    "ip": "8.47.69.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.icelandair.com",
+    "port": 443,
+    "ip": "8.6.112.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.icelandreview.com",
+    "port": 443,
+    "ip": "104.21.93.82",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.icelandreview.com",
+    "port": 443,
+    "ip": "172.67.207.155",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.ikea.is",
+    "port": 443,
+    "ip": "185.191.235.228",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "P-384": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "P-384": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "tls_alert": 3
+    },
+    "dual_classical_first_outcomes": {
+      "tls_alert": 3
+    }
+  },
+  {
+    "hostname": "www.isafjardarbaer.is",
+    "port": 443,
+    "ip": "3.174.18.55",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.isafjardarbaer.is",
+    "port": 443,
+    "ip": "3.174.18.58",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.isafjordur.is",
+    "port": 443,
+    "ip": "2a05:d018:ed6:eb0c:52:49:138:181",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "www.isafjordur.is",
+    "port": 443,
+    "ip": "52.49.138.181",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "P-384": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "P-384": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "tls_alert": 3
+    },
+    "dual_classical_first_outcomes": {
+      "tls_alert": 3
+    }
+  },
+  {
+    "hostname": "www.islandsbanki.is",
+    "port": 443,
+    "ip": "46.28.152.192",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.isnic.is",
+    "port": 443,
+    "ip": "185.93.157.44",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "www.isnic.is",
+    "port": 443,
+    "ip": "193.4.58.166",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "www.isnic.is",
+    "port": 443,
+    "ip": "2001:67c:6c:1000::44",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "www.isnic.is",
+    "port": 443,
+    "ip": "2001:67c:6c:58::166",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "www.kefairport.is",
+    "port": 443,
+    "ip": "2a06:98c1:3122:8000::2",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "www.kefairport.is",
+    "port": 443,
+    "ip": "2a06:98c1:3123:8000::2",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "www.kefairport.is",
+    "port": 443,
+    "ip": "8.47.69.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.kefairport.is",
+    "port": 443,
+    "ip": "8.6.112.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 2,
+      "timeout": 1
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.kopavogur.is",
+    "port": 443,
+    "ip": "216.150.1.1",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.kopavogur.is",
+    "port": 443,
+    "ip": "216.150.16.1",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.krabb.is",
+    "port": 443,
+    "ip": "66.33.60.130",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.krabb.is",
+    "port": 443,
+    "ip": "76.76.21.61",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.landsbankinn.is",
+    "port": 443,
+    "ip": "89.104.148.153",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "P-256": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "www.lhi.is",
+    "port": 443,
+    "ip": "95.179.255.35",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "www.lsr.is",
+    "port": 443,
+    "ip": "20.107.224.56",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "P-384": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.lyfja.is",
+    "port": 443,
+    "ip": "150.171.109.194",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "P-256": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.lyfja.is",
+    "port": 443,
+    "ip": "2603:1061:14:c1::1",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "www.mbl.is",
+    "port": 443,
+    "ip": "8.47.69.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.mbl.is",
+    "port": 443,
+    "ip": "8.6.112.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.mh.is",
+    "port": 443,
+    "ip": "18.173.5.3",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.mh.is",
+    "port": 443,
+    "ip": "18.173.5.30",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.mh.is",
+    "port": 443,
+    "ip": "2600:9000:2574:3200:1c:d693:840:93a1",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "www.mh.is",
+    "port": 443,
+    "ip": "2600:9000:2574:c00:1c:d693:840:93a1",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "www.netto.is",
+    "port": 443,
+    "ip": "198.202.211.1",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.netto.is",
+    "port": 443,
+    "ip": "2620:cb:2000::1",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "www.no.is",
+    "port": 443,
+    "ip": "2600:9000:28e5:1400:10:9240:8dc0:93a1",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "www.no.is",
+    "port": 443,
+    "ip": "2600:9000:28e5:2000:10:9240:8dc0:93a1",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "www.no.is",
+    "port": 443,
+    "ip": "3.174.18.35",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.no.is",
+    "port": 443,
+    "ip": "3.174.18.7",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.nova.is",
+    "port": 443,
+    "ip": "78.40.251.69",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "www.on.is",
+    "port": 443,
+    "ip": "31.43.160.6",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.orkuveitan.is",
+    "port": 443,
+    "ip": "216.150.1.193",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.orkuveitan.is",
+    "port": 443,
+    "ip": "216.150.16.193",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.rarik.is",
+    "port": 443,
+    "ip": "54.194.251.180",
+    "family": 4,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "no_handshake": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "www.re.is",
+    "port": 443,
+    "ip": "2a06:98c1:3122:8000::2",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "www.re.is",
+    "port": 443,
+    "ip": "2a06:98c1:3123:8000::2",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "www.re.is",
+    "port": 443,
+    "ip": "8.47.69.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.re.is",
+    "port": 443,
+    "ip": "8.6.112.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.reykjanesbaer.is",
+    "port": 443,
+    "ip": "216.150.1.129",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.reykjanesbaer.is",
+    "port": 443,
+    "ip": "216.150.16.129",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.ruv.is",
+    "port": 443,
+    "ip": "2a06:98c1:3122:8000::2",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "www.ruv.is",
+    "port": 443,
+    "ip": "2a06:98c1:3123:8000::2",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "www.ruv.is",
+    "port": 443,
+    "ip": "8.47.69.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.ruv.is",
+    "port": 443,
+    "ip": "8.6.112.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.siminn.is",
+    "port": 443,
+    "ip": "54.170.218.17",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.siminn.is",
+    "port": 443,
+    "ip": "54.220.10.139",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.sjova.is",
+    "port": 443,
+    "ip": "150.171.109.193",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "P-256": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.sjova.is",
+    "port": 443,
+    "ip": "2603:1061:14:c0::1",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "www.skra.is",
+    "port": 443,
+    "ip": "128.140.238.8",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "www.stjornarradid.is",
+    "port": 443,
+    "ip": "2a06:98c1:3122:8000::2",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "www.stjornarradid.is",
+    "port": 443,
+    "ip": "2a06:98c1:3123:8000::2",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "www.stjornarradid.is",
+    "port": 443,
+    "ip": "8.47.69.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.stjornarradid.is",
+    "port": 443,
+    "ip": "8.6.112.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.syn.is",
+    "port": 443,
+    "ip": "216.150.1.1",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.syn.is",
+    "port": 443,
+    "ip": "216.150.16.1",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.tolvutek.is",
+    "port": 443,
+    "ip": "34.77.236.25",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "www.unak.is",
+    "port": 443,
+    "ip": "18.173.5.2",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.unak.is",
+    "port": 443,
+    "ip": "18.173.5.32",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.unak.is",
+    "port": 443,
+    "ip": "2600:9000:2574:6c00:0:b28f:ff40:93a1",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "www.unak.is",
+    "port": 443,
+    "ip": "2600:9000:2574:800:0:b28f:ff40:93a1",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "www.vegagerdin.is",
+    "port": 443,
+    "ip": "185.147.137.88",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "www.veitur.is",
+    "port": 443,
+    "ip": "20.107.134.152",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "www.verslo.is",
+    "port": 443,
+    "ip": "108.61.171.137",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "www.verslo.is",
+    "port": 443,
+    "ip": "2001:19f0:6c01:34f:5400:4ff:fe90:8e28",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "www.vestmannaeyjar.is",
+    "port": 443,
+    "ip": "3.174.18.13",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.vestmannaeyjar.is",
+    "port": 443,
+    "ip": "3.174.18.67",
+    "family": 4,
+    "observation": "supported",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 12,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519MLKEM768": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519MLKEM768": 3
+    }
+  },
+  {
+    "hostname": "www.visindavefur.is",
+    "port": 443,
+    "ip": "130.208.148.10",
+    "family": 4,
+    "observation": "not_observed_controlled_alert",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "X25519": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "X25519": 2,
+      "network_error": 1
+    },
+    "dual_hybrid_first_outcomes": {
+      "X25519": 3
+    },
+    "dual_classical_first_outcomes": {
+      "X25519": 3
+    }
+  },
+  {
+    "hostname": "www.visindavefur.is",
+    "port": 443,
+    "ip": "2a00:c88:4000:1480::148:10",
+    "family": 6,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "network_error": 3
+    },
+    "hybrid_only_outcomes": {
+      "network_error": 3
+    },
+    "mixed_original_outcomes": {
+      "network_error": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "network_error": 3
+    },
+    "dual_classical_first_outcomes": {
+      "network_error": 3
+    }
+  },
+  {
+    "hostname": "www.visir.is",
+    "port": 443,
+    "ip": "185.21.16.109",
+    "family": 4,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "tls_alert": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "tls_alert": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "tls_alert": 3
+    },
+    "dual_classical_first_outcomes": {
+      "tls_alert": 3
+    }
+  },
+  {
+    "hostname": "www.visir.is",
+    "port": 443,
+    "ip": "185.21.16.110",
+    "family": 4,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "tls_alert": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "tls_alert": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "tls_alert": 3
+    },
+    "dual_classical_first_outcomes": {
+      "tls_alert": 3
+    }
+  },
+  {
+    "hostname": "www.vordur.is",
+    "port": 443,
+    "ip": "88.151.50.120",
+    "family": 4,
+    "observation": "inconclusive",
+    "planned_attempts": 15,
+    "recorded_attempts": 15,
+    "hybrid_successes": 0,
+    "complete": true,
+    "classical_outcomes": {
+      "tls_alert": 3
+    },
+    "hybrid_only_outcomes": {
+      "tls_alert": 3
+    },
+    "mixed_original_outcomes": {
+      "tls_alert": 3
+    },
+    "dual_hybrid_first_outcomes": {
+      "tls_alert": 3
+    },
+    "dual_classical_first_outcomes": {
+      "tls_alert": 3
+    }
+  }
+]

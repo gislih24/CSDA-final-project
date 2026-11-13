@@ -1,0 +1,47 @@
+{
+  "version": "3.0-supplement",
+  "created_utc": "2026-11-05T13:29:17.156155+00:00",
+  "fingerprint": "39cdfd9d3b1f91743fbc0fdf54e51dd32bfda9a2a0e0407359eac6f81e2e110b",
+  "config": {
+    "repeats": 3,
+    "max_per_family": 2,
+    "max_hops": 5,
+    "timeout": 12,
+    "delay": 1,
+    "seed": 20261104,
+    "max_jobs": 10000,
+    "cafile": null,
+    "openssl": {
+      "binary": "/usr/bin/openssl",
+      "binary_sha256": "1d72cbc5bf62be3f3dbd7626c295b63c5fdc1dd8439f323ac47998d8a062b4c9",
+      "version": "OpenSSL 3.5.5 27 Jan 2026 (Library: OpenSSL 3.5.5 27 Jan 2026)\nbuilt on: Wed Sep 30 18:46:30 2026 UTC\nplatform: debian-amd64\noptions:  bn(64,64)\ncompiler: gcc -fPIC -pthread -m64 -Wa,--noexecstack -Wall -fzero-call-used-regs=used-gpr -Wa,--noexecstack -g -O2 -Werror=implicit-function-declaration -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/openssl-ivqAiB/openssl-3.5.5=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -fcf-protection -fdebug-prefix-map=/build/openssl-ivqAiB/openssl-3.5.5=/usr/src/openssl-3.5.5-1ubuntu3.7 -DOPENSSL_USE_NODELETE -DL_ENDIAN -DOPENSSL_PIC -DOPENSSL_BUILDING_OPENSSL -DZLIB -DZSTD -DNDEBUG -Wdate-time -D_FORTIFY_SOURCE=3\nOPENSSLDIR: \"/usr/lib/ssl\"\nENGINESDIR: \"/usr/lib/x86_64-linux-gnu/engines-3\"\nMODULESDIR: \"/usr/lib/x86_64-linux-gnu/ossl-modules\"\nSeeding source: os-specific JITTER (3060300)\nCPUINFO: OPENSSL_ia32cap=0x7ffaf3ffefebffff:0x994027bc239c27eb:0x40400910fc1cc410:0x0000000100040000:0x0000000000000000\n",
+      "tls13_groups": "secp256r1:secp384r1:secp521r1:x25519:x448:brainpoolP256r1tls13:brainpoolP384r1tls13:brainpoolP512r1tls13:ffdhe2048:ffdhe3072:ffdhe4096:ffdhe6144:ffdhe8192:MLKEM512:MLKEM768:MLKEM1024:SecP256r1MLKEM768:X25519MLKEM768:SecP384r1MLKEM1024\n",
+      "providers": "Providers:\n  default\n    name: OpenSSL Default Provider\n    version: 3.5.5\n    status: active\n",
+      "environment": {
+        "OPENSSL_CONF": null,
+        "OPENSSL_CONF_INCLUDE": null,
+        "OPENSSL_MODULES": null,
+        "OPENSSL_ENGINES": null,
+        "SSL_CERT_FILE": null,
+        "SSL_CERT_DIR": null
+      }
+    },
+    "python": "3.14.4 (main, Aug 20 2026, 10:41:58) [GCC 15.2.0]",
+    "profiles": {
+      "classical": "X25519:P-256:P-384",
+      "hybrid_only": "X25519MLKEM768",
+      "mixed_original": "X25519MLKEM768:X25519:P-256:P-384",
+      "dual_hybrid_first": "*X25519MLKEM768:*X25519",
+      "dual_classical_first": "*X25519:*X25519MLKEM768"
+    },
+    "cafile_sha256": null,
+    "baseline_manifest_sha256": "085cc81d381afa0be9a25b088632ada1d8fb5d3d0b0a80e2cbe0d7bcb0137c50",
+    "sample_sha256": "3f036122a7670e7a1f370bef7ddcaed0e19c49561025930f5b5fc2e7d9c6d75b",
+    "source_sha256": {
+      "advanced_survey.py": "bcefba66be9ed6ea8e70c6e4f5c86e2c594996751e211916e47d46e0bc5a207e",
+      "pqc_probe.py": "a916a5343d88cd4bb74e5796b50c726f6bd0185b7fbdab2dd9b3034d76db2348"
+    }
+  },
+  "state": "complete",
+  "updated_utc": "2026-11-05T14:58:01.149062+00:00"
+}
